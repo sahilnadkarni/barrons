@@ -8,7 +8,9 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		ChapterOne.problemOne();
+		ChapterOne.problemTwo();
+		
+		ChapterOne.problemThree();
 		
 	}
 
