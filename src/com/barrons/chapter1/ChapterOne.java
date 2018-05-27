@@ -24,5 +24,11 @@ public class ChapterOne {
 		else
 			System.out.println("statement 2");
 	}
+	
+	public static void problemFour() {
+		
+		double answer = (double)(13 / 5);
+		System.out.println("13 / 5 = " + answer);
+	}
 
 }
