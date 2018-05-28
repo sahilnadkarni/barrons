@@ -30,5 +30,10 @@ public class ChapterOne {
 		double answer = (double)(13 / 5);
 		System.out.println("13 / 5 = " + answer);
 	}
+	
+	public static void problemFive() {
+		int result = 13 - 3 * 6 / 4 % 3;
+		System.out.println(result);
+	}
 
 }
